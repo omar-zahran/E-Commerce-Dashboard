@@ -16,6 +16,8 @@ Enhanced Interactivity: Implemented slicers and filters to allow users to drill 
 Geographical Analysis: Utilized a map to visually represent sales amounts by country, highlighting key markets and regions.
 
  ## Implementation
- https://public.tableau.com/app/profile/omar.zahran6549/viz/E-CommerceDashboard_17233130462320/E-Commerce
  ![WhatsApp Image 2024-08-10 at 21 02 09_ba69fbf1](https://github.com/user-attachments/assets/1faa5a92-09f6-4327-8c5d-ba752396ee85)
+
+## See My Dashboard and Interact With it
+ https://public.tableau.com/app/profile/omar.zahran6549/viz/E-CommerceDashboard_17233130462320/E-Commerce
 
